@@ -24,8 +24,8 @@ var bio = {
   'contacts': {
     'mobile': "<a href='tel:+918892275587'>+918892275587</a>",
     'email': "<a href='mailto:107sinha@gmail.com'>107sinha@gmail.com</a>",
-    'linkedin': "<a href='http://www.linkedin.com/in/deepanshu-sinha-b47622b0'>deepanshu-sinha-b47622b0</a>",
     'github': "<a href='https://github.com/sinhaDroid'>sinhaDroid</a>",
+    'twitter': "<a href='http://www.linkedin.com/in/deepanshu-sinha-b47622b0'>deepanshu-sinha-b47622b0</a>",
     'location': "<a href='#'>Bengaluru, India</a>"
   },
   'welcomeMessage': 'Specializing in developing Android apps, but curious about everything.',
@@ -57,38 +57,38 @@ var education = {
      'location': 'Bengaluru, India',
      'degree': 'Bachelor of Engineering',
      'majors': ['Computer Science Engineering'],
-     'dates': 2016,
+     'dates': 'June 2012 - July 2016',
      'url': 'http://www.rrinstitutions.com/'
     },
     {'name': 'Dehradun Public School',
      'location': 'Ghaziabad, India',
      'degree': 'Inter School/SSLC',
      'majors': ['Science(PCM)'],
-     'dates': 2012,
+     'dates': 'June 2010 - April 2012',
      'url': 'http://www.ddps.in/'
     },
     {'name': 'Ingraham Institute English School',
      'location': 'Ghaziabad, India',
      'degree': 'High School',
      'majors': ['Science(CS)'],
-     'dates': 2010,
+     'dates': 'April 2006 - March 2010',
      'url': 'http://www.ingrahaminstitute.com/EnglishMediumSchoolICSE'
     }
   ],
   'onlineCourses': [
     {'title': 'Front-End Nanodegree',
      'school': 'Udacity',
-     'date': 2017,
+     'date': '2017',
      'url': 'http://www.udacity.com'
     },
     {'title': 'Android Developer Nanodegree',
      'school': 'Udacity',
-     'date': 2017,
+     'date': '2017',
      'url': 'http://www.udacity.com'
     },
     {'title': 'Intro To Programming',
      'school': 'Udacity',
-     'date': 2017,
+     'date': '2017',
      'url': 'http://www.udacity.com'
     }
   ],
@@ -121,13 +121,13 @@ var work = {
     {'employer': 'Newsway',
      'title': 'Android Developer',
      'location': 'Bengaluru, India',
-     'dates': '2016-Present',
+     'dates': '2016-Progress',
      'description': 'Building a product from scratch'
     },
     {'employer': 'SportsCafe',
      'title': 'Android Developer',
      'location': 'Bengaluru, India',
-     'dates': '2016',
+     'dates': '2016-2016',
      'description': 'To provide real-time, engaging and interactive application to build the most preferred online sports portal for the Indian Sports Fan, and through it help develop India\'s Sports Culture. Creating the architecture for development and Validating the UI design which is given by designer. Developing the UI and implementing the functionalities with end to end testing. Handling release management and Focusing on further improvement of the product with the feedback\'s from the users.'
     },
     {'employer': 'Peersome',
@@ -139,7 +139,7 @@ var work = {
     {'employer': 'Cheerz Labs!',
      'title': 'Software Developer Intern',
      'location': 'Bengaluru, India',
-     'dates': '2015',
+     'dates': '2015-2015',
      'description': 'A Service Based Company which deals with the technical projects. Build a Responsive and Interactive Website for Clients.'
     }
   ],
@@ -159,6 +159,15 @@ var work = {
 
 var projects = {
   'projects': [
+    {'title': 'Interactive Resume',
+     'dates': '2017',
+     'description': 'Nothing here... except for some kittens from placekitten.com',
+     'images': [
+       'http://placekitten.com/g/300/300',
+       'http://placekitten.com/g/250/300',
+       'http://placekitten.com/g/350/300'
+     ]
+    },
     {'title': 'Interactive Resume',
      'dates': '2017',
      'description': 'Nothing here... except for some kittens from placekitten.com',
